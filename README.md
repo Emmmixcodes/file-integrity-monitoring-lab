@@ -1,1 +1,1 @@
-# file-integrity-monitoring-lab
+# Bash-based file integrity monitoring using sha256 baselines
